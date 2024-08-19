@@ -1,4 +1,6 @@
-lib.versionCheck('KostaZx/warehouserobbery')
+lib.versionCheck('Peak-Scripts/peak_warehouse')
+if not lib.checkDependency('ox_inventory', '2.41.0', true) then return end
+if not lib.checkDependency('ox_lib', '3.25.0', true) then return end
 
 local busyStates = {}
 local spawnedEntities = {
