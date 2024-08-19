@@ -1,7 +1,7 @@
 <h1 align="center">Peak Scripts Advanced Warehouse Robbery</h1>
 
 ## Features
-- Compatible with all major frameworks (QBX, OX, ESX, OX, ND)
+- Compatible with all major frameworks (QBX, OX, ESX, ND)
 - Supports ox_target, interact, and sleepless_interact interaction systems
 - Extremely detailed configuration file
 - Protected against cheaters
