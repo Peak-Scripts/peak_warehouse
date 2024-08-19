@@ -1,4 +1,4 @@
-h1 align="center"Peak Scripts Advanced Warehouse Robbery/h1
+<h1 align="center">Peak Scripts Advanced Warehouse Robbery</h1>
 
 ## Features
 - Compatible with all major frameworks (QBX, OX, ESX, ND)
