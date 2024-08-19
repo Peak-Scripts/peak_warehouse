@@ -1,0 +1,3 @@
+return {
+    requiredCops = 0,
+}

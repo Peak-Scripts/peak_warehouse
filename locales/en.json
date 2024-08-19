@@ -1,0 +1,33 @@
+{
+    "notify": {
+        "cooldown": "Cooldown is active...",
+        "not_enough_police": "Not enough police are online...",
+        "already_blown": "Electric box is already blown up...",
+        "dont_have_item": "You do not have the required item...",
+        "failed": "You failed to hack the system...",
+        "item_removed": "The item was removed...",
+        "c4_placed": "C4 has been placed, back off!",
+        "gate_unlocked": "The gate has been successfully unlocked",
+        "entrance_closed": "The entrance is closed...",
+        "not_hacked": "The system is not hacked, what are you doing here boy?",
+        "successfully_searched": "You have successfully searched the box!",
+        "already_searched": "This box has already been searched...",
+        "exit_locked": "The exit is locked...",
+        "successfully_locked": "You have successfully locked the entrance",
+        "successfully_hacked": "You have successfully hacked the laptop",
+        "failed_hack": "You have failed to hack the laptop...",
+        "already_hacked": "Laptop has already been hacked..."
+    },
+    "progress": {
+        "searching_box": "Searching the box...",
+        "placing_c4": "Placing the C4..."
+    },
+    "interaction": {
+        "place_c4": "Place the C4",
+        "search_box": "Search the box",
+        "exit_warehouse": "Exit the warehouse",
+        "enter_warehouse": "Enter the warehouse",
+        "hack_laptop": "Hack the laptop",
+        "lock_gates": "Lock the gates"
+    }
+}
