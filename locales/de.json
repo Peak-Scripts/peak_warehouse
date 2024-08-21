@@ -1,0 +1,33 @@
+{
+    "notify": {
+        "cooldown": "Abklingzeit aktiv...",
+        "not_enough_police": "Nicht genügend Polizisten online...",
+        "already_blown": "Der Stromkasten ist bereits gesprengt...",
+        "dont_have_item": "Dir fehlt ein Gegenstand...",
+        "failed": "Du hast es nicht geschafft, das System zu hacken...",
+        "item_removed": "Der Gegenstand wurde entfernt...",
+        "c4_placed": "C4 wurde platziert, geh zurück!",
+        "gate_unlocked": "Das Tor wurde erfolgreich entriegelt",
+        "entrance_closed": "Der Eingang ist verriegelt...",
+        "not_hacked": "Das System ist nicht gehackt, was machst du hier, Junge?",
+        "successfully_searched": "Du hast die Kiste erfolgreich durchsucht!",
+        "already_searched": "Diese Kiste wurde bereits durchsucht...",
+        "exit_locked": "Der Ausgang ist verschlossen...",
+        "successfully_locked": "Du hast den Eingang erfolgreich verriegelt",
+        "successfully_hacked": "Du hast den Laptop erfolgreich gehackt",
+        "failed_hack": "Du hast es nicht geschafft, den Laptop zu hacken...",
+        "already_hacked": "Laptop wurde bereits gehackt..."
+    },
+    "progress": {
+        "searching_box": "Durchsuche die Kiste...",
+        "placing_c4": "Platziere das C4..."
+    },
+    "interaction": {
+        "place_c4": "C4 platzieren",
+        "search_box": "Kiste durchsuchen",
+        "exit_warehouse": "Verlasse das Lagerhaus",
+        "enter_warehouse": "Betrete das Lagerhaus",
+        "hack_laptop": "Laptop hacken",
+        "lock_gates": "Tore verriegeln"
+    }
+}
