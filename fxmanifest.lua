@@ -2,27 +2,24 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'Peak Scripts'
-description 'Advanced Warehouse Robbery for Qbox, Ox Core, ND Core and ESX'
-version '1.0.0'
+description 'Advanced Warehouse Robbery for QBX, QB, OX, ESX, ND frameworks'
+version '2.0.0'
 
 lua54 'yes'
 
 ox_lib 'locale'
 
 shared_scripts {
-    '@ox_lib/init.lua'
+    '@ox_lib/init.lua',
+    'shared/*.lua'
 }
 
 server_scripts { 
-    'bridge/server/*.lua',
     'server/*.lua' 
 }
 
 client_scripts { 
-    '@qbx_core/modules/playerdata.lua',
-    '@sleepless_interact/init.lua',
-    'bridge/client/*.lua',
-    'client/main.lua'
+    'client/*.lua'
 }
 
 files {

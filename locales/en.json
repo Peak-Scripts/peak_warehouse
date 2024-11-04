@@ -16,7 +16,8 @@
         "successfully_locked": "You have successfully locked the entrance",
         "successfully_hacked": "You have successfully hacked the laptop",
         "failed_hack": "You have failed to hack the laptop...",
-        "already_hacked": "Laptop has already been hacked..."
+        "already_hacked": "Laptop has already been hacked...",
+        "already_doing": "Somebody is already doing this..."
     },
     "progress": {
         "searching_box": "Searching the box...",
@@ -29,5 +30,8 @@
         "enter_warehouse": "Enter the warehouse",
         "hack_laptop": "Hack the laptop",
         "lock_gates": "Lock the gates"
+    },
+    "exploit": {
+        "exploiting_server": "Exploiting the server (aka unauthorized use of Lua executors)"
     }
 }
