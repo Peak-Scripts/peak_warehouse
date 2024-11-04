@@ -17,6 +17,6 @@
 - [ox_inventory](https://github.com/overextended/ox_inventory/releases) 
 - [ox_lib](https://github.com/overextended/ox_lib/releases)
 - [ox_target](https://github.com/overextended/ox_target/releases), [interact](https://github.com/darktrovx/interact) or [sleepless_interact](https://github.com/Sleepless-Development/sleepless_interact/releases)
-- [SN-Hacking](https://github.com/Byte-Labs-Studio/bl_ui) (optional)
+- [bl_ui](https://github.com/Byte-Labs-Studio/bl_ui) (optional)
 
 ## [Preview](https://youtu.be/aYylFenbxaU)
