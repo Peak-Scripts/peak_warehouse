@@ -1,3 +1,0 @@
-return {
-    requiredCops = 0,
-}
